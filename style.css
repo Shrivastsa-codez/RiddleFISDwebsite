@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    text-align: center;
+background: rgb(34,193,195);
+background: linear-gradient(180deg, rgba(34,193,195,1) 1%, rgba(45,253,121,1) 100%);
+}
+ 
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+    }
+ 
+#videos iframe
+{
+    width: 80%;
+}
+
+.my_nav_bar
+{
+    position:sticky;
+    top:0;
+    z-index:99999
+}
+
+input
+{
+    background: grey;
+}
+ 
+#Staf{
+color:darkgreen;
+}
+ 
+#1{
+color:greenyellow;
+}
+ 
+#21sm{
+color:blueviolet;
+}
+
+#motto{
+    color:darkblue;
+}
